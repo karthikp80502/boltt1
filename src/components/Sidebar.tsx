@@ -31,7 +31,6 @@ function Sidebar() {
     { icon: Users, label: 'List Service', path: '/list-service' },
     { icon: Calendar, label: 'Appointments', path: '/appointments' },
     { icon: Users, label: 'Patients', path: '/patients' },
-    { icon: MessageCircle, label: 'Messages', path: '/messages' },
     { icon: FileText, label: 'Reports', path: '/reports' },
     { icon: User, label: 'Profile', path: '/profile' },
   ];
